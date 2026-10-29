@@ -2,8 +2,6 @@
 
 Finds dungeon spawner clusters (skeleton, spider, zombie) in an area on Minecraft Java, notably triple skeleton spawners. Vibecoded.
 
-[VIDEO](https://www.youtube.com/watch?v=XXXXXXXXXXX)
-
 - Groups of 2 and 3 of the same type are common: a 20,000 x 20,000 block area holds on average 1-2 groups of 3 skeleton spawners.
 - Groups of 4 and 5 are much rarer, none found, but likely exist on every seed; finding them is limited by search speed.
 - In my opinion 3 is a good compromise: you can always build two triples if you'd really like.
